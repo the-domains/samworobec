@@ -1,7 +1,7 @@
 name: SamWorobec
 favicon: null
-layout_spectrum: 0.23515151790343225
-typography_spectrum: 0.7144639061298221
+layout_spectrum: 1
+typography_spectrum: 0.61003
 cta:
   domain: null
   bucket: null
