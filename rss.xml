@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[SamWorobec]]></title>
-        <description><![CDATA[SamWorobec]]></description>
+        <title><![CDATA[Sam Worobec]]></title>
+        <description><![CDATA[Sam Worobec]]></description>
         <link>https://thegrid.ai/samworobec/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 20:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 21:13:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/samworobec/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/52d62a84-717d-4ba0-9d51-5b775c7e9312.jpg">]]></description>
+            <link>https://thegrid.ai/samworobec/fe26fbc3-fb38-4a76-879a-b903de8e66d6/index.html</link>
+            <guid isPermaLink="false">fe26fbc3-fb38-4a76-879a-b903de8e66d6</guid>
+            <pubDate>Sat, 16 Apr 2016 21:13:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Changing Hour - Singles by samworobec]]></title>
             <description><![CDATA[<article><h1>The Changing Hour - Singles by samworobec</h1><p>Stream The Changing Hour - Singles, a playlist by samworobec from desktop or your mobile device</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6782acbaa219bee50fd2d9d846297607ec6d1c7b.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://soundcloud.com/samworobec/sets/symphonic-affair-somewhere</link>
             <guid isPermaLink="false">c5b0472a-57eb-4e3b-965e-805e1b443d59</guid>
             <pubDate>Sat, 16 Apr 2016 20:19:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Horsecop - Their Self Titled Debut Album by samworobec]]></title>
-            <description><![CDATA[<article><h1>Horsecop - Their Self Titled Debut Album by samworobec</h1><p>Stream Horsecop - Their Self Titled Debut Album, a playlist by samworobec from desktop or your mobile device</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/141e495b9576cb0f00b4ff3f0a9ddaea6eb3cace.jpg"></article>]]></description>
-            <link>https://soundcloud.com/samworobec/sets/horsecop-their-self-titled</link>
-            <guid isPermaLink="false">8de7439c-6b80-4026-ac6b-d7f3621c0d15</guid>
-            <pubDate>Sat, 16 Apr 2016 20:17:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Just found this one from the last trip to Paris. The tower at La Defense. #Paris #ladefense #biggestarchever]]></title>
@@ -68,13 +68,6 @@
             <link>https://thegrid.ai/samworobec/31eb7ba1-7566-4ef6-ac8b-da7e81640718/index.html</link>
             <guid isPermaLink="false">31eb7ba1-7566-4ef6-ac8b-da7e81640718</guid>
             <pubDate>Sat, 16 Apr 2016 19:48:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/52d62a84-717d-4ba0-9d51-5b775c7e9312.jpg">]]></description>
-            <link>https://thegrid.ai/samworobec/fe26fbc3-fb38-4a76-879a-b903de8e66d6/index.html</link>
-            <guid isPermaLink="false">fe26fbc3-fb38-4a76-879a-b903de8e66d6</guid>
-            <pubDate>Sat, 16 Apr 2016 19:47:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
