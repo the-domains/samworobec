@@ -4,8 +4,15 @@
         <description><![CDATA[SamWorobec]]></description>
         <link>https://thegrid.ai/samworobec/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 20:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 20:22:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/samworobec/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Changing Hour by samworobec]]></title>
+            <description><![CDATA[<article><h1>The Changing Hour by samworobec</h1><p>Stream The Changing Hour, a playlist by samworobec from desktop or your mobile device</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0864e93968f3007c73b26787a3aad05542bead5.jpg"></article>]]></description>
+            <link>https://soundcloud.com/samworobec/sets/the-changing-hour</link>
+            <guid isPermaLink="false">b42e56d2-4221-4456-8349-8f8fbf60532e</guid>
+            <pubDate>Sat, 16 Apr 2016 20:21:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Symphonic Affair - Somewhere Between the Oceans by samworobec]]></title>
             <description><![CDATA[<article><h1>Symphonic Affair - Somewhere Between the Oceans by samworobec</h1><p>Stream Symphonic Affair - Somewhere Between the Oceans, a playlist by samworobec from desktop or your mobile device</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97a5c65be61255c02826a29d1db621cdbc0b6d9a.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/samworobec/9cf35f08-ffe3-4d14-bc1d-3879f3909173/index.html</link>
             <guid isPermaLink="false">9cf35f08-ffe3-4d14-bc1d-3879f3909173</guid>
             <pubDate>Sat, 16 Apr 2016 19:38:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9cedc9c3-3a2c-4fab-919c-6d3f54faae1a.jpg">]]></description>
-            <link>https://thegrid.ai/samworobec/6c24cca8-d848-4996-bcf4-e8c0a29b2a49/index.html</link>
-            <guid isPermaLink="false">6c24cca8-d848-4996-bcf4-e8c0a29b2a49</guid>
-            <pubDate>Sat, 16 Apr 2016 19:35:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
