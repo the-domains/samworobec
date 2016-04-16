@@ -1,6 +1,6 @@
 name: Sam Worobec
 favicon: null
-layout_spectrum: 0.68494
+layout_spectrum: 0.85354
 typography_spectrum: 0.61003
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#395b7e'
     - '#b0a17d'
     - '#e1e1e1'
-  brandStrength: 0
+  brandStrength: 0.0625
   lightness: 0.5
   saturation: 1
   rhythmicContrast: 0.5
