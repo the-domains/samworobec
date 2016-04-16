@@ -1,4 +1,4 @@
-name: SamWorobec
+name: Sam Worobec
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.61003
@@ -21,8 +21,8 @@ color:
     - '#395b7e'
     - '#b0a17d'
     - '#e1e1e1'
-  brandStrength: 0.0625
-  lightness: 0.1875
-  saturation: 0.375
-  rhythmicContrast: 0.75
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
